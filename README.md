@@ -6,7 +6,7 @@ RTSP 2.0 버전은 RFC 7826 을 참고
 
 [RFC 2326(RTSP/1.0)](https://datatracker.ietf.org/doc/html/rfc2326) <br />
 [RFC 7826(RTSP/2.0)](https://datatracker.ietf.org/doc/html/rfc7826) <br />
-[구현물은 이쪽..](https://github.com/seongho9/rtsp_server) <br />
+[Boost x Gstreamer 구현](https://github.com/seongho9/rtsp_server) <br />
 
 ## 목차
 [1.Intro](https://github.com/seongho9/rfc_2326_ko/blob/main/1-Introduction.md)<br />
